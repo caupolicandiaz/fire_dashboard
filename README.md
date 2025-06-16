@@ -1,0 +1,1 @@
+A Plotly [dashboard](https://oregon-wildfires-e07c11fc3958.herokuapp.com) that explores 50 years of wildfire data in Oregon State. The data was originally sourced from [kaggle](https://www.kaggle.com/datasets/fritzstevenson/oregons-historical-wildfires). 
